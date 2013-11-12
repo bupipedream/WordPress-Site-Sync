@@ -24,7 +24,7 @@ This script is not perfect by any means. *Please* backup before running this! He
 - Requires local database to have same name as server database (this could easily be changed).
 - Does not support database passwords that contain certain special characters.
 
-If you encounter other issues, please email [developer@bupipedream](mailto:developer@bupipedream.com).
+If you encounter other issues, please email [developer@bupipedream.com](mailto:developer@bupipedream.com).
 
 ## Credit
 Developed by students at [Pipe Dream](http://www.bupipedream.com/), the student-run newspaper at Binghamton University.
